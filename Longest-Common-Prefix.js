@@ -21,3 +21,7 @@ var longestCommonPrefix = function (strs) {
 console.log(longestCommonPrefix(['flower', 'flower', 'flower', 'flower']))
 
 //Figure out how to find shortest string in an array
+
+//Still trying to get the github working
+
+//Getting Github ssh without passphrase
